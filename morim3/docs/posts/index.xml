@@ -18,5 +18,24 @@
             <content type="html"><![CDATA[]]></content>
         </item>
         
+        <item>
+            <title>test</title>
+            <link>https://morim3.github.io/posts/0212/</link>
+            <pubDate>Fri, 11 Feb 2022 13:12:26 +0000</pubDate>
+            
+            <guid>https://morim3.github.io/posts/0212/</guid>
+            <description>数式 $$ i\hbar\frac{\partial{\psi}}{\partial{t}} = \mathcal{H} \psi $$
+プログラム
+print(&amp;quot;Hello Hugo&amp;quot;)  </description>
+            <content type="html"><![CDATA[<p>数式
+$$ i\hbar\frac{\partial{\psi}}{\partial{t}} = \mathcal{H} \psi $$</p>
+
+<p>プログラム</p>
+
+<pre><code class="language-python">print(&quot;Hello Hugo&quot;)
+</code></pre>
+]]></content>
+        </item>
+        
     </channel>
 </rss>
