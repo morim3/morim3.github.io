@@ -5,36 +5,16 @@
         <description>Recent content in Posts on Morim3&#39;s blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ja</language>
-        <lastBuildDate>Fri, 11 Feb 2022 13:12:26 +0000</lastBuildDate>
         <atom:link href="https://morim3.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
-            <title>0211</title>
-            <link>https://morim3.github.io/posts/0211/</link>
-            <pubDate>Fri, 11 Feb 2022 13:12:26 +0000</pubDate>
-            
-            <guid>https://morim3.github.io/posts/0211/</guid>
-            <description></description>
-            <content type="html"><![CDATA[]]></content>
-        </item>
-        
-        <item>
-            <title>test</title>
+            <title></title>
             <link>https://morim3.github.io/posts/0212/</link>
-            <pubDate>Fri, 11 Feb 2022 13:12:26 +0000</pubDate>
+            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
             
             <guid>https://morim3.github.io/posts/0212/</guid>
-            <description>数式 $$ i\hbar\frac{\partial{\psi}}{\partial{t}} = \mathcal{H} \psi $$
-プログラム
-print(&amp;quot;Hello Hugo&amp;quot;)  </description>
-            <content type="html"><![CDATA[<p>数式
-$$ i\hbar\frac{\partial{\psi}}{\partial{t}} = \mathcal{H} \psi $$</p>
-
-<p>プログラム</p>
-
-<pre><code class="language-python">print(&quot;Hello Hugo&quot;)
-</code></pre>
-]]></content>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
         </item>
         
     </channel>
