@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://morim3.github.io/posts/0212/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://morim3.github.io/blog/</loc>
     <xhtml:link
                 rel="alternate"
@@ -33,10 +28,6 @@
                 hreflang="en"
                 href="https://morim3.github.io/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://morim3.github.io/posts/</loc>
   </url>
   
   <url>
