@@ -1,0 +1,1 @@
+https://morim3.github.io/blog/
