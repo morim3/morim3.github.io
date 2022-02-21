@@ -1,12 +1,10 @@
 ---
-title: "Test"
-date: 2022-02-14T09:55:57Z
-draft: true
+title: "test"
+date: 2022-02-14T13:12:26Z
+draft: false
 toc: false
 images:
-tags:
-  - untagged
-math: true
+type: posts
 ---
 
 数式
@@ -16,3 +14,4 @@ $$ i\hbar\frac{\partial{\psi}}{\partial{t}} = \mathcal{H} \psi $$
 ```python
 print("Hello Hugo")
 ```
+
