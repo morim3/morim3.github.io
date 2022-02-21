@@ -75,7 +75,7 @@ params:
         #   url: "index.xml"
 
     editPost:
-        URL: "https://github.com/morim3/morim3.github.io/content"
+        URL: "https://github.com/morim3/content"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 

@@ -9,6 +9,17 @@ draft: false
 
 test test test
 
+$$
+ \begin{bmatrix}
+  a & b \\
+  c & d \\
+  \end{bmatrix}
+$$
+$$
+\frac{d^2 x^{\nu}}{d \tau ^2} + \Gamma ^{\nu}_{\mu \sigma}\frac{dx^{\mu}}{d\tau}\frac{dx^{\sigma}}{d\tau} =0
+$$
+
+
 ~~~
 print("Hello, World")
 ~~~

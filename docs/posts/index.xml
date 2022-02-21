@@ -13,6 +13,7 @@
       
       <guid>https://morim3.github.io/posts/test/</guid>
       <description>Test test test test test
+$$ \begin{bmatrix} a &amp;amp; b \ c &amp;amp; d \ \end{bmatrix} $$ $$ \frac{d^2 x^{\nu}}{d \tau ^2} + \Gamma ^{\nu}_{\mu \sigma}\frac{dx^{\mu}}{d\tau}\frac{dx^{\sigma}}{d\tau} =0 $$
 1  print(&amp;#34;Hello, World&amp;#34;)     test  test  test     test      TH1 TH2     TD1 TD3   TD2 TD4    </description>
     </item>
     
