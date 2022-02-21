@@ -1,4 +1,4 @@
-baseURL: "https://morim3.github.io/blog/"
+baseURL: "https://morim3.github.io"
 canonifyurls: true
 publishDir : "docs"
 title: morim3's blog
